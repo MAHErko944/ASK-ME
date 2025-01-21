@@ -1,0 +1,12 @@
+# ninja log v6
+3	839	7450995295095332	CMakeFiles/ASK_fm.dir/main.cpp.obj	dd1d25452e7244f0
+29	4785	7450998521412198	CMakeFiles/ASK_fm.dir/Configuration.cpp.obj	a2b25110e41882d5
+21	4079	7450999683681861	CMakeFiles/ASK_fm.dir/Questions.cpp.obj	698c165d48e92913
+35	4136	7450999683813675	CMakeFiles/ASK_fm.dir/Answer.cpp.obj	e47d0e1c52b5bcec
+29	4206	7450999683752668	CMakeFiles/ASK_fm.dir/Users.cpp.obj	ab9f8271f09c47b4
+4206	4741	7450999725531345	ASK_fm.exe	f475d1e2dfaef95b
+22	4706	7451003977228458	CMakeFiles/ASK_fm.dir/Configuration.cpp.obj	a2b25110e41882d5
+4707	5286	7451004024080361	ASK_fm.exe	f475d1e2dfaef95b
+23	3918	7451014555249500	CMakeFiles/ASK_fm.dir/main.cpp.obj	dd1d25452e7244f0
+31	5061	7451014555405317	CMakeFiles/ASK_fm.dir/Configuration.cpp.obj	a2b25110e41882d5
+5063	5639	7451014605776385	ASK_fm.exe	f475d1e2dfaef95b
