@@ -1,11 +1,6 @@
 <h1 align="center" style="animation: slideIn 1.5s ease-in-out;">ASK FM System</h1>
 <h3 align="center" style="animation: fadeIn 2s ease-in-out;">🚀 A Simple Q&A Platform for Asking and Answering Questions 🚀</h3>
 
-<!-- Square-style photo -->
-<p align="center" style="animation: zoomIn 2s ease-in-out;">
-  <img src="https://i.imgur.com/xyz1234.png" alt="ASK FM System" style="width: 400px; height: 400px;"/>
-</p>
-
 <p align="center" style="animation: fadeIn 2s ease-in-out;"> 
   <img src="https://komarev.com/ghpvc/?username=askfm&label=Project%20views&color=0e75b6&style=flat" alt="askfm" /> 
 </p>
